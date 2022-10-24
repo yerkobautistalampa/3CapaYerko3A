@@ -1,0 +1,17 @@
+E:\3er año\Base de DATOS 2\2doBimestre\3CapaYerko3A\Entidades\bin\Debug\Entidades.dll
+E:\3er año\Base de DATOS 2\2doBimestre\3CapaYerko3A\Entidades\bin\Debug\Entidades.pdb
+E:\3er año\Base de DATOS 2\2doBimestre\3CapaYerko3A\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+E:\3er año\Base de DATOS 2\2doBimestre\3CapaYerko3A\Entidades\obj\Debug\Entidades.dll
+E:\3er año\Base de DATOS 2\2doBimestre\3CapaYerko3A\Entidades\obj\Debug\Entidades.pdb
+E:\3er año\programacion 3\2doBimestre\3CapaYerko3A\Entidades\bin\Debug\Entidades.dll
+E:\3er año\programacion 3\2doBimestre\3CapaYerko3A\Entidades\bin\Debug\Entidades.pdb
+E:\3er año\programacion 3\2doBimestre\3CapaYerko3A\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+E:\3er año\programacion 3\2doBimestre\3CapaYerko3A\Entidades\obj\Debug\Entidades.dll
+E:\3er año\programacion 3\2doBimestre\3CapaYerko3A\Entidades\obj\Debug\Entidades.pdb
+E:\3er año\programacion 3\3erBimestre\3CapaYerko3A\Entidades\bin\Debug\Entidades.dll
+E:\3er año\programacion 3\3erBimestre\3CapaYerko3A\Entidades\bin\Debug\Entidades.pdb
+E:\3er año\programacion 3\3erBimestre\3CapaYerko3A\Entidades\bin\Debug\BouncyCastle.Crypto.dll
+E:\3er año\programacion 3\3erBimestre\3CapaYerko3A\Entidades\bin\Debug\itextsharp.dll
+E:\3er año\programacion 3\3erBimestre\3CapaYerko3A\Entidades\bin\Debug\itextsharp.xml
+E:\3er año\programacion 3\3erBimestre\3CapaYerko3A\Entidades\obj\Debug\Entidades.dll
+E:\3er año\programacion 3\3erBimestre\3CapaYerko3A\Entidades\obj\Debug\Entidades.pdb

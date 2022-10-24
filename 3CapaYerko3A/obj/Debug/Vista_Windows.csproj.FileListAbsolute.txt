@@ -1,0 +1,65 @@
+E:\3er año\Base de DATOS 2\2doBimestre\3CapaYerko3A\3CapaYerko3A\bin\Debug\3CapaYerko3A.exe.config
+E:\3er año\Base de DATOS 2\2doBimestre\3CapaYerko3A\3CapaYerko3A\bin\Debug\3CapaYerko3A.exe
+E:\3er año\Base de DATOS 2\2doBimestre\3CapaYerko3A\3CapaYerko3A\bin\Debug\3CapaYerko3A.pdb
+E:\3er año\Base de DATOS 2\2doBimestre\3CapaYerko3A\3CapaYerko3A\bin\Debug\Entidades.dll
+E:\3er año\Base de DATOS 2\2doBimestre\3CapaYerko3A\3CapaYerko3A\bin\Debug\LogicaNegocios.dll
+E:\3er año\Base de DATOS 2\2doBimestre\3CapaYerko3A\3CapaYerko3A\bin\Debug\Entidades.pdb
+E:\3er año\Base de DATOS 2\2doBimestre\3CapaYerko3A\3CapaYerko3A\bin\Debug\LogicaNegocios.pdb
+E:\3er año\Base de DATOS 2\2doBimestre\3CapaYerko3A\3CapaYerko3A\obj\Debug\Vista_Windows.csprojResolveAssemblyReference.cache
+E:\3er año\Base de DATOS 2\2doBimestre\3CapaYerko3A\3CapaYerko3A\obj\Debug\_3CapaYerko3A.FormModulos.resources
+E:\3er año\Base de DATOS 2\2doBimestre\3CapaYerko3A\3CapaYerko3A\obj\Debug\_3CapaYerko3A.FormUsuarios.resources
+E:\3er año\Base de DATOS 2\2doBimestre\3CapaYerko3A\3CapaYerko3A\obj\Debug\_3CapaYerko3A.Properties.Resources.resources
+E:\3er año\Base de DATOS 2\2doBimestre\3CapaYerko3A\3CapaYerko3A\obj\Debug\Vista_Windows.csproj.GenerateResource.Cache
+E:\3er año\Base de DATOS 2\2doBimestre\3CapaYerko3A\3CapaYerko3A\obj\Debug\3CapaYerko3A.exe
+E:\3er año\Base de DATOS 2\2doBimestre\3CapaYerko3A\3CapaYerko3A\obj\Debug\3CapaYerko3A.pdb
+E:\3er año\Base de DATOS 2\2doBimestre\3CapaYerko3A\3CapaYerko3A\obj\Debug\_3CapaYerko3A.FormMenu.resources
+E:\3er año\programacion 3\2doBimestre\3CapaYerko3A\3CapaYerko3A\bin\Debug\3CapaYerko3A.exe.config
+E:\3er año\programacion 3\2doBimestre\3CapaYerko3A\3CapaYerko3A\bin\Debug\3CapaYerko3A.exe
+E:\3er año\programacion 3\2doBimestre\3CapaYerko3A\3CapaYerko3A\bin\Debug\3CapaYerko3A.pdb
+E:\3er año\programacion 3\2doBimestre\3CapaYerko3A\3CapaYerko3A\bin\Debug\Entidades.dll
+E:\3er año\programacion 3\2doBimestre\3CapaYerko3A\3CapaYerko3A\bin\Debug\LogicaNegocios.dll
+E:\3er año\programacion 3\2doBimestre\3CapaYerko3A\3CapaYerko3A\bin\Debug\AccesoDatos.dll
+E:\3er año\programacion 3\2doBimestre\3CapaYerko3A\3CapaYerko3A\bin\Debug\Entidades.pdb
+E:\3er año\programacion 3\2doBimestre\3CapaYerko3A\3CapaYerko3A\bin\Debug\LogicaNegocios.pdb
+E:\3er año\programacion 3\2doBimestre\3CapaYerko3A\3CapaYerko3A\bin\Debug\AccesoDatos.pdb
+E:\3er año\programacion 3\2doBimestre\3CapaYerko3A\3CapaYerko3A\obj\Debug\Vista_Windows.csprojResolveAssemblyReference.cache
+E:\3er año\programacion 3\2doBimestre\3CapaYerko3A\3CapaYerko3A\obj\Debug\_3CapaYerko3A.FormCursos.resources
+E:\3er año\programacion 3\2doBimestre\3CapaYerko3A\3CapaYerko3A\obj\Debug\_3CapaYerko3A.FormEstudiante.resources
+E:\3er año\programacion 3\2doBimestre\3CapaYerko3A\3CapaYerko3A\obj\Debug\_3CapaYerko3A.FormIniciarSesion.resources
+E:\3er año\programacion 3\2doBimestre\3CapaYerko3A\3CapaYerko3A\obj\Debug\_3CapaYerko3A.FormMenu.resources
+E:\3er año\programacion 3\2doBimestre\3CapaYerko3A\3CapaYerko3A\obj\Debug\_3CapaYerko3A.FormModulos.resources
+E:\3er año\programacion 3\2doBimestre\3CapaYerko3A\3CapaYerko3A\obj\Debug\_3CapaYerko3A.FormUsuarios.resources
+E:\3er año\programacion 3\2doBimestre\3CapaYerko3A\3CapaYerko3A\obj\Debug\_3CapaYerko3A.FormVerUsuarios.resources
+E:\3er año\programacion 3\2doBimestre\3CapaYerko3A\3CapaYerko3A\obj\Debug\_3CapaYerko3A.Properties.Resources.resources
+E:\3er año\programacion 3\2doBimestre\3CapaYerko3A\3CapaYerko3A\obj\Debug\Vista_Windows.csproj.GenerateResource.Cache
+E:\3er año\programacion 3\2doBimestre\3CapaYerko3A\3CapaYerko3A\obj\Debug\3CapaYerko3A.exe
+E:\3er año\programacion 3\2doBimestre\3CapaYerko3A\3CapaYerko3A\obj\Debug\3CapaYerko3A.pdb
+E:\3er año\programacion 3\3erBimestre\3CapaYerko3A\3CapaYerko3A\bin\Debug\3CapaYerko3A.exe.config
+E:\3er año\programacion 3\3erBimestre\3CapaYerko3A\3CapaYerko3A\bin\Debug\3CapaYerko3A.exe
+E:\3er año\programacion 3\3erBimestre\3CapaYerko3A\3CapaYerko3A\bin\Debug\3CapaYerko3A.pdb
+E:\3er año\programacion 3\3erBimestre\3CapaYerko3A\3CapaYerko3A\bin\Debug\BouncyCastle.Crypto.dll
+E:\3er año\programacion 3\3erBimestre\3CapaYerko3A\3CapaYerko3A\bin\Debug\Entidades.dll
+E:\3er año\programacion 3\3erBimestre\3CapaYerko3A\3CapaYerko3A\bin\Debug\itextsharp.dll
+E:\3er año\programacion 3\3erBimestre\3CapaYerko3A\3CapaYerko3A\bin\Debug\LogicaNegocios.dll
+E:\3er año\programacion 3\3erBimestre\3CapaYerko3A\3CapaYerko3A\bin\Debug\AccesoDatos.dll
+E:\3er año\programacion 3\3erBimestre\3CapaYerko3A\3CapaYerko3A\bin\Debug\Entidades.pdb
+E:\3er año\programacion 3\3erBimestre\3CapaYerko3A\3CapaYerko3A\bin\Debug\LogicaNegocios.pdb
+E:\3er año\programacion 3\3erBimestre\3CapaYerko3A\3CapaYerko3A\bin\Debug\itextsharp.xml
+E:\3er año\programacion 3\3erBimestre\3CapaYerko3A\3CapaYerko3A\bin\Debug\AccesoDatos.pdb
+E:\3er año\programacion 3\3erBimestre\3CapaYerko3A\3CapaYerko3A\obj\Debug\Vista_Windows.csprojResolveAssemblyReference.cache
+E:\3er año\programacion 3\3erBimestre\3CapaYerko3A\3CapaYerko3A\obj\Debug\_3CapaYerko3A.FormAdministrativos.resources
+E:\3er año\programacion 3\3erBimestre\3CapaYerko3A\3CapaYerko3A\obj\Debug\_3CapaYerko3A.FormCursos.resources
+E:\3er año\programacion 3\3erBimestre\3CapaYerko3A\3CapaYerko3A\obj\Debug\_3CapaYerko3A.FormEstudiante.resources
+E:\3er año\programacion 3\3erBimestre\3CapaYerko3A\3CapaYerko3A\obj\Debug\_3CapaYerko3A.FormIniciarSesion.resources
+E:\3er año\programacion 3\3erBimestre\3CapaYerko3A\3CapaYerko3A\obj\Debug\_3CapaYerko3A.FormInscripcion.resources
+E:\3er año\programacion 3\3erBimestre\3CapaYerko3A\3CapaYerko3A\obj\Debug\_3CapaYerko3A.FormMenu.resources
+E:\3er año\programacion 3\3erBimestre\3CapaYerko3A\3CapaYerko3A\obj\Debug\_3CapaYerko3A.FormModulos.resources
+E:\3er año\programacion 3\3erBimestre\3CapaYerko3A\3CapaYerko3A\obj\Debug\_3CapaYerko3A.FormUsuarios.resources
+E:\3er año\programacion 3\3erBimestre\3CapaYerko3A\3CapaYerko3A\obj\Debug\_3CapaYerko3A.FormVerAdministradores.resources
+E:\3er año\programacion 3\3erBimestre\3CapaYerko3A\3CapaYerko3A\obj\Debug\_3CapaYerko3A.FormVerCursos.resources
+E:\3er año\programacion 3\3erBimestre\3CapaYerko3A\3CapaYerko3A\obj\Debug\_3CapaYerko3A.FormVerEstudiantes.resources
+E:\3er año\programacion 3\3erBimestre\3CapaYerko3A\3CapaYerko3A\obj\Debug\_3CapaYerko3A.FormVerUsuarios.resources
+E:\3er año\programacion 3\3erBimestre\3CapaYerko3A\3CapaYerko3A\obj\Debug\_3CapaYerko3A.Properties.Resources.resources
+E:\3er año\programacion 3\3erBimestre\3CapaYerko3A\3CapaYerko3A\obj\Debug\Vista_Windows.csproj.GenerateResource.Cache
+E:\3er año\programacion 3\3erBimestre\3CapaYerko3A\3CapaYerko3A\obj\Debug\3CapaYerko3A.exe
+E:\3er año\programacion 3\3erBimestre\3CapaYerko3A\3CapaYerko3A\obj\Debug\3CapaYerko3A.pdb
